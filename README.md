@@ -1,4 +1,4 @@
-# EZPDF-S
+# PDF-S
 A simple to use PDF page splitter using Python+tkinter.
 
 
@@ -7,5 +7,5 @@ A simple to use PDF page splitter using Python+tkinter.
 * Works with any PDF file
 * Delete original document after splitting
 * Define the name of the files for output
-* Portable; Pages are populated into local directory of EZPDF-S
+* Portable; Pages are populated into local directory of PDF-S
 * Automatically checks for dependencies
